@@ -1,3 +1,5 @@
 test_4096.bin
 data_test.py
 test.py
+build/
+Memory_terminal.spec
